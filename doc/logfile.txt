@@ -1,0 +1,35 @@
+Class documentation
+<---- javadoc command: ---->
+/Applications/Programmation/BlueJ 3.1.5/BlueJ.app/Contents/Frameworks/jdk.framework/Versions/A/Contents/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/Applications/Programmation/BlueJ 3.1.5/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Applications/Programmation/BlueJ 3.1.5/BlueJ.app/Contents/Resources/Java/junit-4.8.2.jar:/Users/vberry/ownCloud/oCOURS/1516/COO+POO/BlueJ/VB/comp102x_lib v2.1x.jar:/Applications/Programmation/BlueJ 3.1.5/BlueJ.app/Contents/Resources/Java/userlib/pi4j-core.jar:/Applications/Programmation/BlueJ 3.1.5/BlueJ.app/Contents/Resources/Java/userlib/pi4j-device.jar:/Applications/Programmation/BlueJ 3.1.5/BlueJ.app/Contents/Resources/Java/userlib/pi4j-gpio-extension.jar:/Applications/Programmation/BlueJ 3.1.5/BlueJ.app/Contents/Resources/Java/userlib/pi4j-service.jar:/Users/vberry/ownCloud/oCOURS/1516/COO+POO/BlueJ/VB/Car2 Demo/+libs/comp102x_lib v2.1x.jar:/Users/vberry/ownCloud/oCOURS/1516/COO+POO/BlueJ/VB/Car2 Demo/+libs/core-2.3-SNAPSHOT.jar:/Users/vberry/ownCloud/oCOURS/1516/COO+POO/BlueJ/VB/Car2 Demo/+libs/ghost4j-0.3.1.jar:/Users/vberry/ownCloud/oCOURS/1516/COO+POO/BlueJ/VB/Car2 Demo/+libs/jai_imageio.jar:/Users/vberry/ownCloud/oCOURS/1516/COO+POO/BlueJ/VB/Car2 Demo/+libs/javase-2.3-SNAPSHOT.jar:/Users/vberry/ownCloud/oCOURS/1516/COO+POO/BlueJ/VB/Car2 Demo/+libs/jna.jar:/Users/vberry/ownCloud/oCOURS/1516/COO+POO/BlueJ/VB/Car2 Demo/+libs/junit-4.10.jar:/Users/vberry/ownCloud/oCOURS/1516/COO+POO/BlueJ/VB/Car2 Demo/+libs/tess4j.jar:/Users/vberry/ownCloud/oCOURS/1516/COO+POO/BlueJ/VB/Car2 Demo
+-d
+/Users/vberry/ownCloud/oCOURS/1516/COO+POO/BlueJ/VB/Car2 Demo/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/Applications/Programmation/BlueJ 3.1.5/BlueJ.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/vberry/ownCloud/oCOURS/1516/COO+POO/BlueJ/VB/Car2 Demo/Car2.java
+<---- end of javadoc command ---->
+Loading source file /Users/vberry/ownCloud/oCOURS/1516/COO+POO/BlueJ/VB/Car2 Demo/Car2.java...
+/Users/vberry/ownCloud/oCOURS/1516/COO+POO/BlueJ/VB/Car2 Demo/Car2.java:16: error: <identifier> expected
+    carImage.set(0.5);
+                ^
+/Users/vberry/ownCloud/oCOURS/1516/COO+POO/BlueJ/VB/Car2 Demo/Car2.java:16: error: illegal start of type
+    carImage.set(0.5);
+                 ^
+2 errors

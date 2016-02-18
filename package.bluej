@@ -1,0 +1,25 @@
+#BlueJ package file
+objectbench.height=76
+objectbench.width=666
+package.editor.height=161
+package.editor.width=558
+package.editor.x=1159
+package.editor.y=91
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+project.charset=UTF-8
+target1.editor.height=977
+target1.editor.width=1910
+target1.editor.x=35
+target1.editor.y=55
+target1.height=50
+target1.name=Car2
+target1.naviview.expanded=true
+target1.showInterface=false
+target1.type=ClassTarget
+target1.typeParameters=
+target1.width=80
+target1.x=70
+target1.y=70
